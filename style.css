@@ -1,0 +1,17 @@
+/* Add to your CSS */
+.vote-btn.upvoted {
+    background-color: #d4edda;
+    border-color: #28a745;
+}
+
+.vote-btn.downvoted {
+    background-color: #f8d7da;
+    border-color: #dc3545;
+}
+
+.loader {
+    position: fixed;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
